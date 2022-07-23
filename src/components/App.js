@@ -1,13 +1,9 @@
-import "../node_modules/bootstrap/dist/css/bootstrap.css";
+import "../../node_modules/bootstrap/dist/css/bootstrap.css";
 
 import Accordion from 'react-bootstrap/Accordion';
 import Carousel from 'react-bootstrap/Carousel';
-import { CarouselItem } from "react-bootstrap/Carousel";
-import { CarouselCaption } from "react-bootstrap/Carousel";
 
-
-
-import './App.css';
+import '../styles/App.css';
 
 function App() {
 
